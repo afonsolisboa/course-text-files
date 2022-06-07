@@ -1,0 +1,5 @@
+7 - Install Git
+
+Url para fazer o download do Git, em Windows
+
+https://git-scm.com/download/win

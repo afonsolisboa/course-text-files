@@ -1,0 +1,7 @@
+10 - Initialize a New Git Repository
+
+- git init - cria um novo repositório vazio na directoria em que nos encontramos. No entanto o repositório está oculto na diretoria.
+
+- cd .git - Direcciona-nos para a directoria onde está o repositório criado, com alguns ficheiros de metadata.
+
+

@@ -1,0 +1,17 @@
+6 - Using the Command Line
+
+Lista de comandos básicos
+
+- pwd (Print working directory) - comando que indica em que diretoria nos encontramos
+
+- cd (Change working directory) - muda de directoria
+
+	- cd .. - anda uma directoria para trás
+	
+	- cd <nome da subpasta/ficheiro> - anda uma directoria para a frente
+	
+	- cd ~ - Volta à directoria inicial/de origem
+	
+- ls - lista, verticalmente ,os ficheiros de uma diretoria
+
+- mkdir - cria uma nova pasta/directoria

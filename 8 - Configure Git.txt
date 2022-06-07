@@ -1,0 +1,23 @@
+8 - Configure Git
+
+- git --version - confirma a instalação do git e indica a versão que foi instalada
+
+- git config - Cria um utilizador para permitir configurações no Git, para que este detecte quem fez as alterações
+
+	- git config --global user.name "Afonso Lisboa" - Cria um utilizador para permitir configurações no Git, para que este detecte quem fez as 
+	  alterações num certo projecto
+
+	- git config --global user.email "afonso.ecf.lisboa@gmail.com" - Cria um email associado ao utilizador criado previamente para permitir 
+	  configurações no Git, para que este detecte quem fez as alterações num certo projecto
+	
+	- git config user.name "Afonso_Lisboa" - Altera o nome de utilizador associado a esse projecto
+	
+	- gita config user.email
+	
+- git config --list - lista todas as definições do Git na altura
+	
+- git config user.name - verificar a configuração do nome do utilizador (Neste caso será 'Afonso Lisboa')
+
+
+
+

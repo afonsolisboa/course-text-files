@@ -1,0 +1,10 @@
+9 - Git Help
+
+- man git - lista um grande número de comandos associados ao Git, mais a respetiva descrição do mesmo ('man' de manual)
+
+- git help - lista um conjunto de comandos mais restrito, mas com aqueles que são mais relevantes
+
+- git help config - leva-nos a um sector em específico do manual do git. Este especificamente vai para o sector das configurações - 'config'.
+
+
+

@@ -1,0 +1,4 @@
+12 - Push a Git Repository to a Code Hosting Provider
+
+Para a criação de um projeto e respetivo repositório, utilizamos o GitHub, como Code Host Provider. É necessário criar uma conta com um username, 
+email associado e uma password no site oficial do GitHub - github.com. Escolhe-se o pacote grátis de repositorios públicos.

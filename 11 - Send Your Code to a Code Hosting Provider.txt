@@ -1,0 +1,6 @@
+11 - Send Your Code to a Code Hosting Provider
+
+O Repositório para inserir o projeto já está criado. No entanto, persiste o problema de não podermos aceder ao projeto em qualquer pc, mas apenas ao 
+novo pc pessoal. Para isso será  necessário obter um software providenciador deste tipo de serviços. Alguns exemplos são o GitHub, GitLab e o 
+BitBucket. Isto permite-nos aceder ao projecto em qualquer pc e permite também aos nossos colegas o acesso ao projeto no respetivo pc. Como se fosse 
+uma cloud.
